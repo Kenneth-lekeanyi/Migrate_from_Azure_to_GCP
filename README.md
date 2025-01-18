@@ -12,12 +12,12 @@
 1. Sign Up For Free: https://cloud.google.com/free
     - Click on `Go to Console` to sign up
 2. You will be prompted to configure the following 
-    - Use the following Link: https://github.com/awanmbandi/google-cloud-projects/blob/migrate-azure-to-gcp/signup-to-gcp.md
+    - Use the following Link: [here](https://github.com/awanmbandi/google-cloud-projects/blob/migrate-azure-to-gcp/signup-to-gcp.md)
     - Or Click on the `signup-to-gcp.md` and follow the instructions mentioned
 
 ## Step 3: Create the Migration Job Using "Storage Transfer Service"
 ### Runbook: 
-- https://github.com/awanmbandi/google-cloud-projects/blob/migrate-azure-to-gcp/migration-job.md
+- Runbook link [here](https://github.com/awanmbandi/google-cloud-projects/blob/migrate-azure-to-gcp/migration-job.md)
 1. Create Job 
 2. Define Source Environment (Azure Data Science Blob Container)
 3. Define Target Environment (GCP Data Science GCS Storage Bucket)
